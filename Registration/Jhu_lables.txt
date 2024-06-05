@@ -1,0 +1,49 @@
+1	unclassified
+2	middle cerebellar peduncle
+3	pontine crossing tract
+4	genu of corpus callosum
+5	body of corpus callosum
+6	splenium of corpus callosum
+7	fornix
+8	corticospinal tract r
+9	corticospinal tract l
+10	medial lemniscus r
+11	medial lemniscus l
+12	inferior cerebellar peduncle r
+13	inferior cerebellar peduncle l
+14	superior cerebellar peduncle r
+15	superior cerebellar peduncle l
+16	cerebral peduncle r
+17	cerebral peduncle l
+18	anterior limb of internal capsule r
+19	anterior limb of internal capsule l
+20	posterior limb of internal capsule r
+21	posterior limb of internal capsule l
+22	retrolenticular part of internal capsule r
+23	retrolenticular part of internal capsule l
+24	anterior corona radiata r
+25	anterior corona radiata l
+26	superior corona radiata r
+27	superior corona radiata l
+28	posterior corona radiata r
+29	posterior corona radiata l
+30	posterior thalamic radiation
+31	posterior thalamic radiation
+32	sagittal stratum
+33	sagittal stratum
+34	external capsule r
+35	external capsule l
+36	cingulum
+37	cingulum
+38	cingulum
+39	cingulum
+40	fornix
+41	fornix
+42	superior longitudinal fasciculus r
+43	superior longitudinal fasciculus l
+44	superior fronto-occipital fasciculus
+45	superior fronto-occipital fasciculus
+46	uncinate fasciculus r
+47	uncinate fasciculus l
+48	tapetum r
+49	tapetum l
