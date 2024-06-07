@@ -24,21 +24,19 @@ Welcome to the repository for my master thesis code. This repository contains va
   - **submit_job_helper.py**: Helper script for submitting jobs.
 
 - **DTI**
-  - **patient_dti_analysis.py**: Script for patient DTI (Diffusion Tensor Imaging) analysis.
-  - **.DS_Store**: System file, should be ignored.
-  - **README.md**: This readme file.
+  - **patient_dti_analysis.py**: Script for DTI analysis.
   - **submit_job_helper.py**: Helper script for submitting jobs.
 
 - **MF**
-  - (Currently empty)
-
+   - **patient_mf_analysis.py**: Script for MF analysis.
+   - **submit_job_helper.py**: Helper script for submitting jobs.
+  
 - **Write csv**
   - **write_csv_analysis.py**: Script for writing analysis results to CSV files.
   - **submit_job_helper.py**: Helper script for submitting jobs.
 
 - **Statistical analysis**
   - **boxplot_MF_bval.R**: R script for generating boxplots for MF b-values.
-  - **.DS_Store**: System file, should be ignored.
   - **boxplot_DTI_bval.R**: R script for generating boxplots for DTI b-values.
   - **boxplot_MF_pair.R**: R script for generating paired boxplots for MF.
   - **boxplot_DTI_direction.R**: R script for generating boxplots for DTI directions.
@@ -49,17 +47,10 @@ Welcome to the repository for my master thesis code. This repository contains va
   - **boxplot_NODDI_pair.R**: R script for generating paired boxplots for NODDI.
   - **boxplot_MF_direction.R**: R script for generating boxplots for MF directions.
 
-- **dictionaries**
-  - **dictionary-fixedraddist_scheme-HCPMGH.mat**: Dictionary file for HCP MGH scheme.
-  - **dictionary-fixedraddist_scheme-StLucGE.mat**: Dictionary file for St. Luc GE scheme.
-  - **dictionary-hexagpack_scheme-StLucGE.mat**: Dictionary file for hexagonal packing scheme at St. Luc GE.
-  - **dictionary-hexagpack_scheme-HCPMGH.mat**: Dictionary file for hexagonal packing scheme at HCP MGH.
-
 - **NODDI**
-  - (Currently empty)
+   - **patient_noddi_analysis.py**: Script for NODDI analysis.
+   - **submit_job_helper.py**: Helper script for submitting jobs.
 
-- **microstructure_fingerprinting**
-  - (Currently empty)
 
 - **Number of direction**
   - **patient_dti.py**: Script for patient DTI analysis with a focus on the number of directions.
